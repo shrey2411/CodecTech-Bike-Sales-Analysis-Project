@@ -38,6 +38,9 @@ Key Techniques:
 Key Features & Insights:
 
 1.Interactive Dashboard: A dynamic dashboard allowing users to filter sales data by region, age group, or product.
+
 2.Performance Monitoring: Clear visualization of the overall sales performance (revenue and units).
+
 3.Geographic Analysis: Insights into the performance of sales across different countries and regions.
+
 4.Demographic Breakdown: Detailed analysis of sales segmented by customer age and gender to identify target markets.
