@@ -1,4 +1,5 @@
 Project Summary
+
 The Bike Sales Analysis Project is a comprehensive data analysis study, utilizing Microsoft Excel to transform raw sales data into actionable business insights. The project follows a clear workflow: data cleaning, pivot table and chart generation, and finally, the creation of an interactive sales dashboard. This analysis is designed to help stakeholders understand key sales performance indicators, identify top-selling products and regions, and visualize sales trends and customer demographics. The final dashboard provides a single-view, dynamic tool for monitoring and driving data-informed decisions in the bike sales domain.
 
 CodecTech - Bike Sales Analysis Project
@@ -12,8 +13,11 @@ Project Goal
 To analyze historical bike sales data to answer critical business questions, such as:
 
 1. What is the Total Revenue and Total Units Sold?
+
 2. Which countries/regions are the most profitable?
+   
 3. What are the sales distribution by customer demographics (age group, gender)?
+   
 4. How do sales trends look over time?
 
 Tools and Technologies
@@ -24,8 +28,11 @@ Primary Tool: Microsoft Excel (2016+)
 Key Techniques:
 
 1.Data Cleaning and Transformation (e.g., handling duplicates, correcting formats, calculating new columns).
+
 2.Pivot Tables and Pivot Charts for aggregation and summarization.
+
 3.Advanced formulas and functions (e.g., SUMIFS, GETPIVOTDATA).
+
 4.Dashboarding and Slicers for interactivity.
 
 Key Features & Insights:
